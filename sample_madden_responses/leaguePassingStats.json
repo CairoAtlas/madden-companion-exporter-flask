@@ -1,0 +1,26 @@
+{
+  "playerPassingStatInfoList": [
+    {
+      "fullName": "D.Watson",
+      "passAtt": 33,
+      "passComp": 21,
+      "passCompPct": 63.636364,
+      "passInts": 1,
+      "passLongest": 31,
+      "passPts": 0,
+      "passerRating": 93.300003,
+      "passSacks": 2,
+      "passTDs": 2,
+      "passYds": 243,
+      "passYdsPerAtt": 7.363636,
+      "passYdsPerGame": 227.625,
+      "rosterId": 555354820,
+      "scheduleId": 545259529,
+      "seasonIndex": 1,
+      "statId": 538054285,
+      "stageIndex": 1,
+      "teamId": 1011220539,
+      "weekIndex": 15
+    }
+  ]
+}

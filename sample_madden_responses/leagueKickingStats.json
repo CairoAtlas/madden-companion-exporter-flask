@@ -1,0 +1,26 @@
+{
+  "playerKickingStatInfoList": [
+    {
+      "kickPts": 0,
+      "fGAtt": 1,
+      "fG50PlusAtt": 0,
+      "fG50PlusMade": 0,
+      "fGLongest": 0,
+      "fGMade": 0,
+      "fGCompPct": 0.0,
+      "fullName": "G.Joseph",
+      "kickoffAtt": 6,
+      "kickoffTBs": 4,
+      "rosterId": 555353498,
+      "scheduleId": 545259529,
+      "seasonIndex": 1,
+      "statId": 549061193,
+      "stageIndex": 1,
+      "teamId": 1011220539,
+      "weekIndex": 15,
+      "xPAtt": 4,
+      "xPMade": 3,
+      "xPCompPct": 75.0
+    }
+  ]
+}

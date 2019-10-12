@@ -1,0 +1,26 @@
+{
+  "playerReceivingStatInfoList": [
+    {
+      "fullName": "M.Goodwin",
+      "recCatches": 11,
+      "recCatchPct": 84.615387,
+      "recDrops": 2,
+      "recLongest": 31,
+      "recPts": 0,
+      "rosterId": 555353035,
+      "recTDs": 1,
+      "recToPct": 0.0,
+      "recYdsAfterCatch": 61,
+      "recYacPerCatch": 5.545455,
+      "recYds": 119,
+      "recYdsPerCatch": 10.818182,
+      "recYdsPerGame": 85.583336,
+      "scheduleId": 545259529,
+      "seasonIndex": 1,
+      "statId": 538054334,
+      "stageIndex": 1,
+      "teamId": 1011220539,
+      "weekIndex": 15
+    }
+  ]
+}

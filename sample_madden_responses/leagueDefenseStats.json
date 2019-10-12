@@ -1,0 +1,25 @@
+{
+  "playerDefensiveStatInfoList": [
+    {
+      "defCatchAllowed": 0,
+      "defDeflections": 0,
+      "defForcedFum": 0,
+      "defFumRec": 0,
+      "defInts": 0,
+      "defIntReturnYds": 0,
+      "defPts": 0,
+      "defSacks": 1.0,
+      "defSafeties": 0,
+      "defTDs": 0,
+      "defTotalTackles": 1,
+      "fullName": "F.Cox",
+      "rosterId": 555352618,
+      "scheduleId": 545259529,
+      "seasonIndex": 1,
+      "statId": 546314507,
+      "stageIndex": 1,
+      "teamId": 1011220539,
+      "weekIndex": 15
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+service: madden-companion-exporter-flask
+
+provider:
+  name: aws
+  runtime: python3.7
+
+  stage: test
+
+resources: ${file(config/resources.yml)}
+
+plugins:
+  - serverless-pseudo-parameters

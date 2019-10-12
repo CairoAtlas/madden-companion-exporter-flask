@@ -1,0 +1,23 @@
+{
+  "playerPuntingStatInfoList": [
+    {
+      "fullName": "R.Dixon",
+      "puntsBlocked": 0,
+      "puntsIn20": 2,
+      "puntLongest": 75,
+      "puntTBs": 0,
+      "puntNetYdsPerAtt": 59.0,
+      "puntNetYds": 177,
+      "puntAtt": 3,
+      "puntYdsPerAtt": 59.0,
+      "puntYds": 177,
+      "rosterId": 555352741,
+      "scheduleId": 545259529,
+      "seasonIndex": 1,
+      "statId": 549061200,
+      "stageIndex": 1,
+      "teamId": 1011220539,
+      "weekIndex": 15
+    }
+  ]
+}
